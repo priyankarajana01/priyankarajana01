@@ -10,7 +10,7 @@
 
 ### Skillset
 
-![ReactJS](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -23,3 +23,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![UiKit](https://img.shields.io/badge/-Uikit-000?&logo=Uikit)
+
+
