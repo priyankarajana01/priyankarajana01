@@ -1,7 +1,7 @@
 ### Hi there, I'm Priyanka Rajana
 
 
-- 🔭 I’m an experienced web developer with 3.5 years of experience in developing end to end websites.
+- 🔭 I’m an Full stack web developer with 3+ years of experience in developing end to end websites.
 - 🌱 I also had an experience as a researcher while doing my Master's in the field of computer vision.
 - 👯 I’m looking to collaborate on any work related to developing websites.
 - 📫 How to reach me: priyards24@gmail.com
